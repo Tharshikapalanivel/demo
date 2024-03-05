@@ -6,6 +6,7 @@ public class jdbc {
         String uname="root";
         String pass="";
       //  String query="insert into student values(5,'manoj'),(6,'mahi')";
+        System.out.println("hello2");
         int userid=8;
         String username="deepali";
         String query ="insert into student values (?,?)";
